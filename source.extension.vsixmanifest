@@ -12,6 +12,7 @@
 
 Glass is a trademark of Google Inc.</Description>
 		<Locale>1033</Locale>
+		<License>LICENSE</License>
 		<SupportedProducts>
 			<VisualStudio Version="10.0">
 				<Edition>Pro</Edition>
