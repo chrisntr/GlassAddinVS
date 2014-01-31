@@ -7,7 +7,7 @@
 		<Name>Google Glass Template</Name>
 		<Author>ChrisNTR</Author>
 		<Version>0.1</Version>
-		<Description xml:space="preserve">This extension provides Google Glass specific templates for Visual Studio.
+		<Description xml:space="preserve">This extension provides Google Glass specific templates for Visual Studio. Xamarin.Android is required to develop for the Google Glass with this project template. More information can be found at http://xamarin.com
 
 
 Glass is a trademark of Google Inc.</Description>
